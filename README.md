@@ -1,2 +1,1 @@
-# Manpro
-# Bacot Edy Santoso !!!
+# Management Project
